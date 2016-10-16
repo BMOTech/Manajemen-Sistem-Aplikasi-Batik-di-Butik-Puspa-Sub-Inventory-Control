@@ -1,6 +1,6 @@
  # Bab 2
- BAB II
-LANDASAN TEORI
+                                                                 BAB II
+                                                             LANDASAN TEORI
 
 2.1 Manajemen
 Manajemen adalah proses kegiatan mengelola sumber daya manusia, material, dan metode (3M: Men, MAterial, Method) berdasarkan fungsi-fungsi manajemen agar tujuan dapat tercapai secara efisien dan efektif. Fungsi-fungsi manajemen disebutkan dengan jumlah dan istilah yang bervariasi oleh masing-masing pakar manajemen yaitu Fayol, Terry, Gullick, Siagian, dan sebagainya.
