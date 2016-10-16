@@ -8,7 +8,6 @@ Manajemen Sistem Aplikasi Batik di Butik Puspa Berbasis Framework CodeIgniter da
 
 ## Installation
 1.
-2.
 
 ## About 
 NPM | Name | Class | Prodi | Campus
