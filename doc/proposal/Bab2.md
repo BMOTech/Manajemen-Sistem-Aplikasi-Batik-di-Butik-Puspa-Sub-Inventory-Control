@@ -38,4 +38,3 @@ Sebuah sistem SMS Gateway, umumnya terdiri komponen Hardware ( Server/Komputer y
 2.8	Pengendalian Persediaan (Inventory Control)
 Persediaan didefinisikan sebagai barang jadi yang disimpan atau digunakan untuk dijual pada periode mendatang, yang dapat berbentuk bahan baku yang disimpan untuk diproses, barang dalam proses manufaktur dan barang jadi yang disimpan untuk dijual maupun diproses.
 Persediaan diterjemahkan dari kata “inventory” yang merupakan timbunan barang (bahan baku, komponen, produk setengah jadi, atau produk akhir, dll) yang secara sengaja disimpan sebagai cadangan (safety atau buffer-stock) untuk manghadapi kelangkaan pada saat proses produksi sedang berlangsung.
-
