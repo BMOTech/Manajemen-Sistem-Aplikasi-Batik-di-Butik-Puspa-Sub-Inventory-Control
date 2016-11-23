@@ -1,0 +1,3 @@
+
+Analisis merupakan proses untuk menentukan bentuk dari kebutuhan sistem/aplikasi/alat baik berupa kebutuhan pada saat membangun maupun pada saat Implementasi.  
+Tahap analisis system dilakukan setelah tahap perencanaan system (system planning) dan sebelum tahap desain system (system desain). Tahap analisis merupakan tahap yang kritis dan sangat penting, karena kesalahan di dalam tahap ini akan menyebabkan juga kesalahan di tahap selanjutnya.  Hal-hal yang dilakukan pada tahap analisis system ini adalah analisis system yang sedang berjalan menggunakan flowmap yaitu gambaran system yang sedang berjalan, analisis dokumen yang digunakan, analisis system yang akan dibangun menggunakan kebutuhan aplikasi, analisis kebutuhan perangkat lunak dan analisis perangkat keras.  
